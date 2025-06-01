@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exercise-9</title>
+  </head>
+  <body>
+  <input class="text" placeholder="Name" >
+  <button class="submit" onclick="
+  document.querySelector('.text').value =     `Your name is ${placeholder = 'Akhil'}`">Submit</button>
+  
+
+    <script>
+     
+      
+    </script>
+  </body>
+</html>
