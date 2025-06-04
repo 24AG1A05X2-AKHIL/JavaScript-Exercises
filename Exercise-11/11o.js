@@ -14,7 +14,7 @@
     for(let i = 0; i < myArray.length; i++){
       if(myArray[i] === 'search'){
         console.log(i);
-        break;
+        
       } else {
         
         console.log(-1);
